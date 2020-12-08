@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <age>30</age>
+    <id>1</id>
+    <name>Vladimir</name>
+    <subordinates>
+        <element>2</element>
+        <element>3</element>
+    </subordinates>
+</root>
